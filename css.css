@@ -11,7 +11,7 @@ body {
     left: 0%;
     height: calc(93vh / 2);
     width: 25vw;
-    cursor: url('/project%20CMF/material/arrow2.png') 64 64, auto;
+    cursor: url('material/arrow2.png') 64 64, auto;
     z-index: 10;
 }
 .shortsR {
@@ -20,7 +20,7 @@ body {
     right: 0%;
     height: 93vh;
     width: 25vw;
-    cursor: url('/project%20CMF/material/arrow.png') 64 64, auto;
+    cursor: url('material/arrow.png') 64 64, auto;
     z-index: 10;
 }
 .section {
@@ -33,7 +33,7 @@ body {
     justify-content: start;
     width: 100%;
     height: 100%;
-    background: url('/project CMF/material/c80c61104d84aecf459bbcf7c41e9407.jpg') no-repeat center / cover;
+    background: url('material/c80c61104d84aecf459bbcf7c41e9407.jpg') no-repeat center / cover;
 }
 .intro {
     display: flex;
@@ -171,7 +171,7 @@ header {
     margin-left: 3%;
     height: 100%;
     width: 100px;
-    background: url('/project CMF/material/logo-light-sm.png') no-repeat center / 80%;
+    background: url('material/logo-light-sm.png') no-repeat center / 80%;
 }
 #menu {
     font-weight: 500;
@@ -187,14 +187,14 @@ header {
     margin-right: 3%;
     height: 80%;
     width: 80px;
-    background: url('/project CMF/material/icons8-тележка-64 White.png');
+    background: url('material/icons8-тележка-64 White.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 40%;
 }
 .shop:hover {
     cursor: pointer ;
-    background-image: url('/project CMF/material/icons8-тележка-64 Orange.png');
+    background-image: url('material/icons8-тележка-64 Orange.png');
 }
 
 .blockproduct {
@@ -261,7 +261,7 @@ header {
     width: 100%;
     height: 100%;
     flex-shrink: 0;
-    background: url('/project CMF/material/c4cc337003cebe5799178abdb35d0258.png') no-repeat center / cover;
+    background: url('material/c4cc337003cebe5799178abdb35d0258.png') no-repeat center / cover;
     transform: translateX(0%);
 }
 .dev {
@@ -309,25 +309,25 @@ transform: translateX(0%);
     transform: translateX(-300%);
 }
 #white-watch {
-    background-image: url('/project CMF/material/b903c5b245881213539f1991a7dc673a.png');
+    background-image: url('material/b903c5b245881213539f1991a7dc673a.png');
 }
 #black-watch {
-    background-image: url('/project CMF/material/c03e9bdad86856f671ac69ee1ea054de.png');
+    background-image: url('material/c03e9bdad86856f671ac69ee1ea054de.png');
 }
 #gray-watch {
-    background-image: url('/project CMF/material/4e8818a9a101a7e3a72bcec669f02371.png');
+    background-image: url('material/4e8818a9a101a7e3a72bcec669f02371.png');
 }
 #orange-watch {
-    background-image: url('/project CMF/material/9111f6ef15fec70092e2f92908c5e1bb.png');
+    background-image: url('material/9111f6ef15fec70092e2f92908c5e1bb.png');
 }
 #white-case {
-    background-image: url('/project CMF/material/594e9df43f5be68df78870977d66e3f3.png');
+    background-image: url('material/594e9df43f5be68df78870977d66e3f3.png');
 }
 #black-case {
-    background-image: url('/project CMF/material/f6326174f79882b188ab05c685ada3bf.png');
+    background-image: url('material/f6326174f79882b188ab05c685ada3bf.png');
 }
 #orange-case {
-    background-image: url('/project CMF/material/fb91c1a17d330ca059d103e384a6119f.png');
+    background-image: url('material/fb91c1a17d330ca059d103e384a6119f.png');
 }
 .color-box  {
     z-index: 10;
@@ -453,7 +453,7 @@ transform: translateX(0%);
     flex-grow: 1;
     height: 100%;
     background-color: red;
-    background: url('/project CMF/material/2aa16370705ffbe0a6c49d29ec21c8d3.png') no-repeat;
+    background: url('material/2aa16370705ffbe0a6c49d29ec21c8d3.png') no-repeat;
     background-position: 50% 50%;
     background-size: 150%;
     animation: box linear forwards;
@@ -542,11 +542,11 @@ footer {
 }
 .lineone {
     flex-grow: 1;
-    background: url('/project CMF/material/cards.png') no-repeat bottom right / 60%;
+    background: url('material/cards.png') no-repeat bottom right / 60%;
 }
 .linetwo {
     flex-grow: 1;
-    background: url('/project CMF/material/cards2.png') no-repeat top right / 60% ;
+    background: url('material/cards2.png') no-repeat top right / 60% ;
 }
 .secondline {
     display: flex;
