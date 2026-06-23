@@ -574,7 +574,7 @@ footer {
     display: flex;
     flex-direction: column;
     flex-grow: 1;
-    background-color: aqua;
+    background-color: rgb(214, 214, 214);
 }
 .firstline {
     flex-grow: 1;
